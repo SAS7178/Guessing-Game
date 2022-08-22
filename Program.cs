@@ -47,3 +47,4 @@ void GuessEqualToSecretNumber(int ParsedAnswer)
     }
 }
 
+//Phase 6 let user know if their guess is too high or too low
